@@ -1,5 +1,7 @@
-const a = (c, b) => {
+const add = (c, b) => {
 	return c/b;
 };
+
+const b = "Hello";
 
 
