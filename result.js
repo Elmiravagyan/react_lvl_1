@@ -1,2 +1,3 @@
-console.log(5);
-console.log(6);
+function foo() {
+	return "ura Conflict";
+}
