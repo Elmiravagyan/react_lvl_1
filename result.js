@@ -1,6 +1,6 @@
-const add = (c, b) => {
-	return c/b;
-};
+function foo() {
+	return "ura Conflict";
+}
 
 const b = "Hello";
 
